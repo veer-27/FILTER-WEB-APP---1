@@ -1,0 +1,18 @@
+h3 
+{
+    font-size:30px;
+    color: black;
+}
+
+.btn-info:hover
+{
+    background-color: Red;
+}
+
+canvas 
+{
+    border: 4px black solid;
+    animation-name:example;
+    animation-duration:4s;
+    animation-iteration-count: infinite;
+}
